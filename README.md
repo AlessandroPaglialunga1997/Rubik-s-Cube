@@ -1,6 +1,6 @@
 # Rubik's Cube
 
-[Alpha phase](https://alessandropaglialunga1997.github.io/Rubik-s-Cube/)
+Play ;) [Alpha phase](https://alessandropaglialunga1997.github.io/Rubik-s-Cube/)
 
 ## Commands
 - Use mouse to change cube orientation. 
