@@ -1,4 +1,4 @@
-# Rubik-s-Cube
+# Rubik's Cube
 
 [Alpha phase](https://alessandropaglialunga1997.github.io/Rubik-s-Cube/)
 
